@@ -1,0 +1,7 @@
+install this modules!
+|
+
+pip install discord
+pip install asyncio
+pip install colorama
+pip install termcolor
